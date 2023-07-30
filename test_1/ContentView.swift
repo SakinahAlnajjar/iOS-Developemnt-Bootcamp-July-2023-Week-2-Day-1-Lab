@@ -50,7 +50,7 @@ struct ContentView: View {
                 Text("Popular")
                 Spacer()
                 Button {
-                    
+                    print("button clicked")
                 } label: {
                     Text("see All>")
                 }
