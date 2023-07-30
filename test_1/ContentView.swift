@@ -42,7 +42,6 @@ struct ContentView: View {
                 VStack(alignment: .leading){
                     Text("\(title)")
                     Text("\(Subtitle).\(price)$")
-                    
                 }
                 .padding()
             }
